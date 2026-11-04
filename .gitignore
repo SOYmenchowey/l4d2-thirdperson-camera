@@ -1,0 +1,13 @@
+build/
+*.dll
+*.obj
+*.exe
+*.pdb
+*.lib
+*.exp
+*.ilk
+*.log
+vmconfig.ini
+.vs/
+.idea/
+.vscode/
